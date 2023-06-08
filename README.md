@@ -1,7 +1,7 @@
 <html>
     <body>
         <h1>
-            WEllCOME
+            WELLCOME
         </h1>
         <h3>
             By Nanthawat Wongbutdi
